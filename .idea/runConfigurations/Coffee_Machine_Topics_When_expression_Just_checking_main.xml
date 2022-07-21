@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Coffee_Machine.Topics-When_expression-Just_checking.main" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <module name="Coffee_Machine.Topics-When_expression-Just_checking.main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
